@@ -1,3 +1,4 @@
+<a href="https://imgur.com/C6O0zdG"><img src="https://i.imgur.com/C6O0zdG.jpg" title="source: imgur.com" /></a>
 - 👋 Hi, I’m @samiunique
 - 👀 I’m interested in ...mobile app development 
 - 🌱 I’m currently learning ...python
