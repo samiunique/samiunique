@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @samiunique --- Samson Mekonnen STUDENT of ALXSE 💻👨‍💻
+- 👋 Hi, I’m @samiunique --- Samson Mekonnen STUDENT of ALXSE with grat curriculum 💻👨‍💻
 - 👀 I’m interested in ...mobile app development 
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning .C,..python...., HTML,.....CSS,....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/samson-mekonnen-unique
